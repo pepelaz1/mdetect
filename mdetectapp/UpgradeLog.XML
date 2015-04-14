@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MotionDetector">
+</Property><Property Name="Solution File" Value="D:\Work\paulscary\MotionDetector\MotionDetector.sln">
+</Property><Property Name="Date" Value="6 октября 2012 г.">
+</Property><Property Name="Time" Value="22:12">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MotionDetector.sln" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\MotionDetector.sln">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="MotionDetector.csproj" Description="Project file successfully backed up as D:\Work\paulscary\MotionDetector\Backup\MotionDetector.csproj">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="BatchInstanceForm.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\BatchInstanceForm.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="BatchInstanceForm.Designer.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\BatchInstanceForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="BatchProcessForm.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\BatchProcessForm.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="BatchProcessForm.Designer.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\BatchProcessForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="FastBitmap.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\FastBitmap.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="FFDShowAPI\FFDShowAPI.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\FFDShowAPI\FFDShowAPI.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="FFDShowAPI\FFDShowConstants.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\FFDShowAPI\FFDShowConstants.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="FFDShowAPI\FFDShowReceiver.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\FFDShowAPI\FFDShowReceiver.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="FFDShowAPI\Interfaces\DirectShow.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\FFDShowAPI\Interfaces\DirectShow.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="FFDShowAPI\Interfaces\IffDecoder.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\FFDShowAPI\Interfaces\IffDecoder.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="FFDShowAPI\Interfaces\IffdshowBase.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\FFDShowAPI\Interfaces\IffdshowBase.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="FFDShowAPI\Interfaces\IffdshowDec.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\FFDShowAPI\Interfaces\IffdshowDec.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="FFDShowAPI\Interfaces\IffdshowDecVideo.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\FFDShowAPI\Interfaces\IffdshowDecVideo.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="MainForm.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="MainForm.Designer.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="MotionData.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\MotionData.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="MotionDetector.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\MotionDetector.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="PersistentList.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\PersistentList.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="ProcessCommunicationServer.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\ProcessCommunicationServer.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="Program.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="Serialization.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\Serialization.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="SettingsForm.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\SettingsForm.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="SettingsForm.Designer.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\SettingsForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="Utils.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\Utils.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="VideoEffects.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\VideoEffects.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="VideoPlayer.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\VideoPlayer.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="VideoProcessor.cs" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\VideoProcessor.cs">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="Properties\Settings.settings" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="BatchInstanceForm.resx" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\BatchInstanceForm.resx">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="BatchProcessForm.resx" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\BatchProcessForm.resx">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="MainForm.resx" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="Properties\Resources.resx" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="SettingsForm.resx" Description="File successfully backed up as D:\Work\paulscary\MotionDetector\Backup\SettingsForm.resx">
+</Event><Event ErrorLevel="1" Project="MotionDetector" Source="MotionDetector.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="MotionDetector.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MotionDetector" Source="MotionDetector.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MotionDetector.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MotionDetector.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MotionDetector" Source="MotionDetector.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
